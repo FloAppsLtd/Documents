@@ -12,7 +12,7 @@ Flo Apps has taken technical and organisational measures to protect data from lo
 
 ## General Data Protection Regulation (GDPR)
 
-The General Data Protection Regulation (http://www.eugdpr.org) protects rights of EU citizens. We regularly review and update our agreements, internal processes, procedures, data systems, and documentation to ensure we are in compliance with the GDPR regulations.
+The General Data Protection Regulation protects rights of EU citizens. We regularly review and update our agreements, internal processes, procedures, data systems, and documentation to ensure we are in compliance with the GDPR regulations.
 
 Under the GDPR regulations, customers have extended rights on how services manage their data, such as the right to rectification, access, and portability of the data as well as the right to be forgotten.
 
@@ -280,13 +280,6 @@ Flo Apps shall document all security breaches and shall notify clients of all br
  1. a description of the actions Flo Apps has taken in response to a security breach and mitigating its adverse effects
 
 If the above information is not possible to provide in a single message, information may be provided in parts.
-
-## Future suggestions
-
- 1. Check file modifications (specially critical ones like password, hosts, etc.)
- 1. Isolated Execution Environments
- 1. File Auditing and Intrusion Detection Systems (e.g. Tripwire, Aide)
- 1. Run `OWASP ZAP` (see GitHub)
 
 ## Flo Apps Ltd premises
 
