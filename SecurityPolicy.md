@@ -244,9 +244,9 @@ We use Tawk to provide support chat. Tawk keeps email addresses for those person
 
 ### Twilio (2FA)
 
-Ad hoc SMS's may be sent via [Twilio](https://twilio.com/). Flo Apps Ltd and Twilio Inc. have a signed agreement on EC Data Protection.
+Ad hoc SMS's and 2FA SMS's are sent via [Twilio](https://twilio.com/). Flo Apps Ltd and Twilio Inc. have signed an agreement on EC Data Protection.
 
-During SMS delivery, Twilio may transfer data to the US; however, they are committed to complying with EU data protection requirements. Protection and safeguards are applied to any transfer. 
+During SMS delivery, Twilio may transfer data to the US; however, they are committed to complying with EU data protection requirements.
 
 ### Twitter
 
