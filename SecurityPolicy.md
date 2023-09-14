@@ -159,17 +159,13 @@ We use two vulnerability scanners:
 
 ## Third-party integrations
 
-We use 2FA authentication whenever possible.
+We use 2FA authentication for all logins into third-party services.
 
 ### Bank transactions
 
 Files that are fetched from banks are kept on our servers for 70 days (on `Core`, 180 days) and deleted via CRON operation.
 
-### Facebook
-
-FloMembers users can use their Facebook id's to log in.
-
-### GatewayAPI (2FA)
+### GatewayAPI
 
 We deliver SMS's via [GatewayAPI](https://gatewayapi.com/). They store the SMS messages for 30 days to display logs of sent messages.
 
@@ -179,24 +175,17 @@ The processing includes the following data about data subjects:
 * message content
 * sending organization
 
-### Google (2FA)
+### Google
 
 #### Ads
 
 For FloMembers Mini clients, we're using Google AdSense to show ads.
 
-#### Analytics
-
-We're using Google Analytics to
-
-1. gather overall statistics of services' usage
-1. to monitor and compare site loading times
-
 #### Login
 
 FloMembers users can use their Google credentials to log in.
 
-### Mandrill (2FA)
+### Mandrill
 
 We use Mandrill (part of Mailchimp) to deliver email. Full content of the messages is kept on Mandrill servers for 3 days, detailed information about sent messages for 30 days and bounced data for 90 days.
 
@@ -218,7 +207,7 @@ The delivery servers (3) are also located in the United States and are a combina
 
 Amazon AWS Identity and Access Management is used for authentication to AWS-related resources. Data may be accessed from Mandrill offices, but is generally not stored there except when transiently stored on individual machines.
 
-### Maventa (2FA)
+### Maventa
 
 Invoice-related data is transferred to [Maventa](https://maventa.com/) when e-invoices are sent. Client can delete this data via Maventa panel.
 
@@ -234,7 +223,7 @@ Address data that is fetched from Posti is kept in a text file on our servers fo
 
 We are using [Postituspalvelu Navakka](https://www.postituspalvelunavakka.fi/) to send letters by post. We have signed a Data Processing Agreement with them.
 
-### Postmark (2FA)
+### Postmark
 
 We use [Postmark](https://postmarkapp.com/) to deliver email and have signed a Data Processing Addendum with them. For more information on Postmark's EU Data Protection policy, see https://postmarkapp.com/eu-privacy
 
@@ -242,15 +231,11 @@ We use [Postmark](https://postmarkapp.com/) to deliver email and have signed a D
 
 We use Tawk to provide support chat. Tawk keeps email addresses for those persons who are logged into FloMembers when using the chat. For more information, see https://www.tawk.to/data-protection/dpa-data-processing-addendum/
 
-### Twilio (2FA)
+### Twilio
 
 Ad hoc SMS's and 2FA SMS's are sent via [Twilio](https://twilio.com/). Flo Apps Ltd and Twilio Inc. have signed an agreement on EC Data Protection.
 
 During SMS delivery, Twilio may transfer data to the US; however, they are committed to complying with EU data protection requirements.
-
-### Twitter
-
-FloMembers users can use their Twitter id's to log in.
 
 ## Procedure for Security Breaches
 
