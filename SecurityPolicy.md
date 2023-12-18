@@ -80,9 +80,9 @@ Flo Apps Ltd uses servers hosted by following service providers.
    * see https://tavu.io/en/features
    * offsite FloMembers backups are kept on UpCloud Helsinki
 
- * UpCloud (Helsinki, FI)
-   * see https://www.upcloud.com/documentation/faq/
-   * FI-HEL2 is located at Telia Helsinki Data Center with ISO 27001 certification for security standards
+ * UpCloud (Espoo, FI; Helsinki, FI)
+   * see https://upcloud.com/data-centres
+   * ISO 27001 certification for security standards
    * offsite FloMembers backups are kept on UpCloud Helsinki
 
 ### FloMembers backups
