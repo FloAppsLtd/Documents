@@ -76,10 +76,6 @@ Flo Apps Ltd uses servers hosted by following service providers.
    * see https://www.linode.com/compliance
    * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on Dropbox
 
- * Shellit.org (Ulvila, FI)
-   * see https://tavu.io/en/features
-   * offsite FloMembers backups are kept on UpCloud Helsinki
-
  * UpCloud (Espoo, FI; Helsinki, FI)
    * see https://upcloud.com/data-centres
    * ISO 27001 certification for security standards
