@@ -20,11 +20,11 @@ Under the GDPR regulations, customers have extended rights on how services manag
 
 We store clients' basic contact details in [FloMembers](https://flomembers.fi).
 
-We are using FrontApp, based in the United States, to handle some of the email traffic and client communication. FrontApp has completed the EU-U.S. Privacy Shield certifications and we have signed an EU Data Processing Addendum with them. See https://community.frontapp.com/t/x1p4mw/is-front-compliant-with-gdpr for more information.
+We are using FrontApp, based in the United States, to handle some of the email traffic and client communication. We have signed an EU Data Processing Addendum with them. See https://help.front.com/en/articles/2311 for more information.
 
-For project management, we use [Freedcamp](https://freedcamp.com), based in the United States.
+For project management, we may occasionally use [Freedcamp](https://freedcamp.com), based in the United States.
 
-To maintain email lists of our current and past clients, as well as potential future clients, we use Mailchimp whose servers may be located outside the EEA. Mailchimp has certified to the EU-U.S. Privacy Shield Framework and we have signed a Customer EU Data Processing Addendum with them. See https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation
+To maintain email lists of our current and past clients, as well as potential future clients, we use Mailchimp whose servers may be located outside the EEA. We have signed an EU Data Processing Addendum with them. See https://mailchimp.com/help/about-the-general-data-protection-regulation/
 
 # Security-related data
 
@@ -35,6 +35,7 @@ Our systems save such security-related data as logins and IP addresses. This dat
 Data owned by clients is stored exclusively within the European Economic Area (EEA) with these exceptions:
 
 * during email transmissions, recipients' email addresses and email content may be handled outside the EEA
+* 2FA SMS messages may be handled outside the EEA
 * backups for Edge server are kept on Dropbox whose data centers are in the United States
 
 By using FloMembers membership management, FloRoyalties royalty management and / or bespoke database systems to keep personal data, client agrees that Flo Apps Ltd may manage client's data over the course of the agreement and beyond, until the end of the backups' life cycle.
@@ -53,8 +54,7 @@ Data is handled as follows:
 When we get data from a new client, that data is saved in:
 
  * HESK support system on `Linode Frankfurt` (cron removes the data after a timeout)
- * personal computers (crons should be used to clean Downloads etc)
- * encrypted TimeMachine backups
+ * personal computers (crons should be used to clean Downloads)
  * production server (cron cleans backups)
  * offsite backups
 
@@ -96,7 +96,7 @@ If a FloMembers installation is closed, remaining backups are removed gradually 
 We protect servers in following ways:
 
  1. Operating systems and server software are updated regularly. 
- 1. We periodically run automated software to scan server security.
+ 1. We run automated software to scan server security.
  1. Server-wide firewalls are in place to regulate network traffic.
  1. Logs are kept for an extended period of time.
  1. We are using [Lynis](https://cisofy.com/lynis/) for server hardening.
@@ -110,7 +110,7 @@ Services that are running on servers can be listed (`systemctl list-units --type
 
 Databases can not be accessed externally and only SSH key login is allowed.
 
-On Ubuntu servers, MySQL security is enforced using `sudo mysql_secure_installation`. It can also be used to change `root` password for MySQL installation.
+MySQL security is enforced using `sudo mysql_secure_installation`. It can also be used to change `root` password for MySQL installation.
 
 ### Public Key Infrastructure
 
@@ -148,14 +148,11 @@ All logins are written into a log. Login pages have brute force protection. Syst
 
 ### Vulnerability scanners
 
-We use two vulnerability scanners:
-
-1. [Detectify](https://detectify.com/) runs automated vulnerability tests once a week.
-1. [Intruder](https://www.intruder.io/) runs a full scan once a month and ad hoc tests whenever new threats emerge.
+[Intruder](https://www.intruder.io/) runs a full scan once a week and ad hoc tests whenever new threats emerge.
 
 ## Third-party integrations
 
-We use 2FA authentication for all logins into third-party services.
+We use 2FA authentication for logins into third-party services whenever possible.
 
 ### Bank transactions
 
@@ -185,23 +182,13 @@ FloMembers users can use their Google credentials to log in.
 
 We use Mandrill (part of Mailchimp) to deliver email. Full content of the messages is kept on Mandrill servers for 3 days, detailed information about sent messages for 30 days and bounced data for 90 days.
 
-Mailchimp Terms of Use and Privacy Policy cover how Mailchimp manages and handles data and what commitments they make in terms of data. Additionally, the [Mailchimp Security page](http://mailchimp.com/about/security) contains information relevant for both Mandrill and Mailchimp.
-
-Mailchimp has certified to the EU-U.S. Privacy Shield Framework and we have signed a Customer EU Data Processing Addendum with them.
-
 Mandrill's infrastructure is composed of three key components:
 
-1) Relay servers, which accept mail from users through the API or SMTP integration
-2) Application servers, which process and handle everything required for sending and storing data, and
-3) Sending servers, which handle the actual delivery of emails to recipient servers
+1) Relay servers (various Amazon-hosted regions), which accept mail from users through the API or SMTP integration
+2) Application servers (in the US), which process and handle everything required for sending and storing data, and
+3) Sending servers (in the US), which handle the actual delivery of emails to recipient servers
 
-The relay servers (1) are located around the world in various Amazon-hosted regions to reduce latency.
-
-The application servers (2) are also currently hosted via Amazon and are located in the US-West region of the United States.
-
-The delivery servers (3) are also located in the United States and are a combination of hosted servers and ones that are managed by Mandrill in a secure facility.
-
-Amazon AWS Identity and Access Management is used for authentication to AWS-related resources. Data may be accessed from Mandrill offices, but is generally not stored there except when transiently stored on individual machines.
+For more information, see [Mailchimp Security page](https://mailchimp.com/about/security/). We have signed a Customer EU Data Processing Addendum with them.
 
 ### Maventa
 
@@ -213,7 +200,7 @@ Our clients use [Paytrail](https://www.paytrail.com/) to handle online payments 
 
 ### Posti Group
 
-Address data that is fetched from Posti is kept in a text file on our servers for approximately 3 months and deleted when the next address update batch is run.
+Address data that is fetched from [Posti](https://www.posti.fi/) is kept in text files on our servers for up to 3 months and deleted when the next address update batch is run.
 
 ### Postituspalvelu Navakka
 
