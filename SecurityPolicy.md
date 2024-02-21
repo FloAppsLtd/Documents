@@ -156,7 +156,7 @@ We use 2FA authentication for logins into third-party services whenever possible
 
 ### Bank transactions
 
-Files that are fetched from banks are kept on our servers for 70 days (on `Core`, 180 days) and deleted via CRON operation.
+Bank transaction files are kept on our servers for 180 days and deleted via CRON operation.
 
 ### GatewayAPI
 
