@@ -8,8 +8,8 @@ Jos useampi asiakas on jättänyt samaa ominaisuutta koskevan jatkokehityspyynn�
 
 Jatkokehitykseen sovellettavat sopimusehdot ovat
 
- * IT2022 YSE – Yleiset sopimusehdot
- * IT2022 EKT – Erityisehtoja ohjelmistojen toimituksista ketterillä menetelmillä 
+ * [IT2022 YSE – Yleiset sopimusehdot](https://it-ehdot.fi/term_preview/it2022-yse-yleiset-sopimusehdot/)
+ * [IT2022 EKT – Erityisehtoja ohjelmistojen toimituksista ketterillä menetelmillä](https://it-ehdot.fi/term_preview/it2022-ekt-erityisehtoja-ohjelmistojen-toimituksista-ketterilla-menetelmilla/)
 
 ## Tehtävänjako
 
