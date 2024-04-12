@@ -22,8 +22,6 @@ We store clients' basic contact details in [FloMembers](https://flomembers.fi).
 
 We are using FrontApp, based in the United States, to handle some of the email traffic and client communication. We have signed an EU Data Processing Addendum with them. See https://help.front.com/en/articles/2311 for more information.
 
-For project management, we may occasionally use [Freedcamp](https://freedcamp.com), based in the United States.
-
 To maintain email lists of our current and past clients, as well as potential future clients, we use Mailchimp whose servers may be located outside the EEA. We have signed an EU Data Processing Addendum with them. See https://mailchimp.com/help/about-the-general-data-protection-regulation/
 
 # Security-related data
