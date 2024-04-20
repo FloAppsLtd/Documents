@@ -208,6 +208,10 @@ We are using [Postituspalvelu Navakka](https://www.postituspalvelunavakka.fi/) t
 
 We use [Postmark](https://postmarkapp.com/) to deliver email and have signed a Data Processing Addendum with them. For more information on Postmark's EU Data Protection policy, see https://postmarkapp.com/eu-privacy
 
+### Stripe
+
+We may use Stripe to handle online payments in FloMembers. For more information, see [Stripe Privacy Center](https://stripe.com/en-fi/legal/privacy-center)
+
 ### Tawk
 
 We use Tawk to provide support chat. Tawk keeps email addresses for those persons who are logged into FloMembers when using the chat. For more information, see https://www.tawk.to/data-protection/dpa-data-processing-addendum/
