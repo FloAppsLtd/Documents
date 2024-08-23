@@ -238,9 +238,9 @@ Termination must be submitted in writing.
 
 ## 17  NOTICES
 
-The Customer shall send notices relating to this Agreement in writing to the Supplier's address or email address specified in this Agreement or as subsequently specified.
+The Customer shall send notices relating to the Agreement in writing to the Supplier's address or email address specified in this Agreement or as subsequently specified.
 
-The Supplier shall send written notices relating to this Agreement to the email address last provided by the Customer. Notices sent by e-mail by the Supplier shall be deemed to have been received by the Customer on the day following the day on which they were sent.
+The Supplier shall send written notices relating to the Agreement to the email address last provided by the Customer. Notices sent by e-mail by the Supplier shall be deemed to have been received by the Customer on the day following the day on which they were sent.
 
 ## 18  DISPUTE RESOLUTION AND APPLICABLE LAW
 
