@@ -217,7 +217,7 @@ Asiakkaan tulee lähettää Sopimukseen liittyvät ilmoitukset kirjallisesti Toi
 Toimittaja lähettää Sopimusta koskevat kirjalliset ilmoitukset Asiakkaan viimeksi ilmoittamaan sähköpostiosoitteeseen. Toimittajan sähköpostitse lähettämien ilmoitusten katsotaan tulleen Asiakkaan tietoon niiden lähettämistä seuraavana päivänä.
 
 ## 18  RIITOJEN RATKAISU JA SOVELLETTAVA LAKI
-Tähän sopimukseen sovelletaan Suomen lakia. Sopimuksesta aiheutuvat riidat ratkaistaan Helsingin käräjäoikeudessa ellei pakottavasta lainsäädännöstä muuta johdu.
+Sopimukseen sovelletaan Suomen lakia. Sopimuksesta aiheutuvat riidat ratkaistaan Helsingin käräjäoikeudessa ellei pakottavasta lainsäädännöstä muuta johdu.
 
 ## 19  LIITTEET JA NIIDEN TULKINTAJÄRJESTYS
 Jos Sopimuksen ja sen liitteiden välillä havaitaan ristiriitaa, sovelletaan ensisijaisesti pääsopimusasiakirjaan kirjattuja ehtoja ja sen jälkeen näitä Palvelun ehtoja.
