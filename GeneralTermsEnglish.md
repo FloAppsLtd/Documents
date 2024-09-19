@@ -244,7 +244,7 @@ The Supplier shall send written notices relating to the Agreement to the email a
 
 ## 18  DISPUTE RESOLUTION AND APPLICABLE LAW
 
-This Agreement shall be governed by Finnish law. Disputes arising from the contract will be settled by the Helsinki District Court, unless otherwise provided by mandatory law.
+The Agreement shall be governed by Finnish law. Disputes arising from the Agreement will be settled by the Helsinki District Court, unless otherwise provided by mandatory law.
 
 ## 19  ANNEXES AND THEIR ORDER OF INTERPRETATION
 
@@ -254,6 +254,6 @@ In the event of any conflict between the Agreement and its annexes, the terms an
 
 The Supplier may amend these terms and conditions, in which case the Customer will be informed of the new terms and conditions at least two months before they enter into force. If the terms have been changed to the detriment of the Customer, the Customer shall be entitled to terminate the Contract without notice.
 
-These terms and conditions shall enter into force on 1 August 2024 and shall remain in force until further notice.
+These terms and conditions shall enter into force on 1 October 2024 and shall remain in force until further notice.
 
 The latest version of these Terms and Conditions is available at https://github.com/FloAppsLtd/Documents.
