@@ -194,6 +194,8 @@ The fees for using the service are indicated in a separate price list. The Suppl
 
 If the Customer does not pay the agreed fees, the Supplier has the right to close the Customer's Service and delete the Customer's data from the system. The re-opening of the Service shall be carried out by the Supplier on an hourly basis and the costs thereof shall be borne by the Customer.
 
+The up-to-date price list for FloMembers is available at https://flomembers.fi/pricing
+
 The Supplier shall be entitled to charge the Customer for any costs incurred by the Customer in resolving a complaint against the Supplier.
 
 ## 13  DAMAGES AND LIMITATION OF LIABILITY
