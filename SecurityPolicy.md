@@ -210,7 +210,7 @@ We use [Postmark](https://postmarkapp.com/) to deliver email and have signed a D
 
 ### Stripe
 
-We may use Stripe to handle online payments in FloMembers. For more information, see [Stripe Privacy Center](https://stripe.com/en-fi/legal/privacy-center)
+We may use Stripe to handle online payments in FloMembers. For more information, see [Stripe Privacy Center](https://stripe.com/en-fi/legal/privacy-center).
 
 ### Tawk
 
@@ -221,6 +221,10 @@ We use Tawk to provide support chat. Tawk keeps email addresses for those person
 Ad hoc SMS's and 2FA SMS's are sent via [Twilio](https://twilio.com/). Flo Apps Ltd and Twilio Inc. have signed an agreement on EC Data Protection.
 
 During SMS delivery, Twilio may transfer data to the US; however, they are committed to complying with EU data protection requirements.
+
+### Uploadcare
+
+In some of our services, clients can upload and share files via [Uploadcare](https://uploadcare.com/). For more information, see their [Trust Center](https://uploadcare.com/about/trust/).
 
 ## Procedure for Security Breaches
 
