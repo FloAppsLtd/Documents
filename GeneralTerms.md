@@ -225,6 +225,6 @@ Jos Sopimuksen ja sen liitteiden välillä havaitaan ristiriitaa, sovelletaan en
 ## 20  EHTOJEN VOIMASSAOLO JA MUUTTAMINEN
 Toimittaja voi muuttaa näitä sopimusehtoja, jolloin Asiakkaalle tiedotetaan uusista sopimusehdoista vähintään kaksi kuukautta ennen niiden voimaanastumista. Jos ehtoja on muutettu Asiakkaan vahingoksi, on Asiakkaalla oikeus irtisanoa Sopimus irtisanomisaikaa noudattamatta.
 
-Nämä ehdot tulevat voimaan 01.12.2024 ja ovat voimassa toistaiseksi.
+Nämä ehdot tulevat voimaan 01.02.2025 ja ovat voimassa toistaiseksi.
 
 Näiden sopimusehtojen tuorein versio on noudettavissa osoitteesta https://github.com/FloAppsLtd/Documents.
