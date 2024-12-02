@@ -46,7 +46,7 @@ Palvelua käytettäessä Asiakas tallentaa Palveluun tietoja, jotka saattavat si
 
 Sopijapuolet sitoutuvat Palvelua käytettäessä noudattamaan EU:n yleisen tietosuoja-asetuksen (EU) 2016/679 määräyksiä.
 
-Asiakas on asetuksen tarkoittama rekisterinpitäjä, Toimittajan toimiessa tietojen käsittelijänä asiakkaan lukuun.
+Asiakas on asetuksen tarkoittama rekisterinpitäjä, Toimittajan toimiessa tietojen käsittelijänä Asiakkaan lukuun.
 
 Toimittajalla on oikeus käsitellä Palveluun tallennettuja tietoja vain Asiakkaan kirjallisten ohjeiden mukaisesti ja tämän sopimuksen mukaisiin tarkoituksiin ellei tietosuoja-asetuksesta tai lainsäädännöstä muuta johdu. Tämän sopimuksen ja Toimittajan tietosuojaselosteen sekä Asiakkaan erikseen antamien kirjallisten ohjeiden lisäksi kirjallisina ohjeina pidetään Asiakkaan Palvelussa antamia Palvelun käytön kautta tapahtuvia toimeksiantoja.
 
@@ -55,11 +55,11 @@ Jos soveltuva lainsäädäntö edellyttää, että Toimittaja käsittelee tietoj
 Toimittaja ilmoittaa tietojen käsittelyä koskevat periaatteet ja kuvauksen tietosuojaselosteessa ([Security Policy](https://github.com/FloAppsLtd/Documents/blob/master/SecurityPolicy.md)). Toimittaja ei saa ilman Asiakkaan suostumusta laajentaa tietojen käsittelyä tietosuojaselosteessa ilmoitetusta. Toimittaja on nimennyt tietosuojavastaavan, jonka yhteystiedot on ilmoitettu tietosuojaselosteessa.
 
 ### 5.1 Käsittelyn kohde ja kesto
-Käsittelyn kohteena ovat asiakkaan palveluun tallentamat tiedot.
+Käsittelyn kohteena ovat Asiakkaan palveluun tallentamat tiedot.
 
 Toimittaja käsittelee tietoja tämän sopimuksen voimassaolon ajan.
 
-Sopimuksen päättyessä toimittaja on velvollinen poistamaan Asiakkaan materiaalit Palvelusta. Ellei toisin ole sovittu, Toimittaja poistaa tiedot viimeistään kuukauden kuluessa sopimuksen päättymisestä. Toimittaja ei vastaa rekisteröidylle mahdollisesti aiheutuvista vahingoista, jotka johtuvat tietojen poistamisesta.
+Sopimuksen päättyessä Toimittaja on velvollinen poistamaan Asiakkaan materiaalit Palvelusta. Ellei toisin ole sovittu, Toimittaja poistaa tiedot viimeistään kuukauden kuluessa sopimuksen päättymisestä. Toimittaja ei vastaa rekisteröidylle mahdollisesti aiheutuvista vahingoista, jotka johtuvat tietojen poistamisesta.
 
 Sopimuksen päätyttyä tiedot poistuvat Toimittajan varmuuskopiointijärjestelmistä tietosuojaselosteessa ilmoitetussa ajassa.
 
@@ -70,7 +70,7 @@ Asiakas ja Toimittaja toteuttavat henkilötietojen käsittelyn turvallisen käsi
 Toimittaja avustaa Asiakasta, käsittelyn luonne huomioiden asianmukaisilla teknisillä ja organisatorisilla toimenpiteillä, toteuttamaan rekisteröidyn (Tietosuoja-asetuksen III luvussa määrätyt) oikeudet.
 
 ### 5.4 Asiakkaan avustaminen
-Toimittajalle saatavilla olevat tiedot ja käsittelyn luonne huomioiden, toimittaja avustaa rekisterinpitäjää:
+Toimittajalle saatavilla olevat tiedot ja käsittelyn luonne huomioiden, Toimittaja avustaa rekisterinpitäjää:
 
 (a)    yleisesti tietojen käsittelyn turvallisuuden varmistamisessa (artikla 32);
 
@@ -82,7 +82,9 @@ Toimittajalle saatavilla olevat tiedot ja käsittelyn luonne huomioiden, toimitt
 
 (e)    viranomaisen kuulemismenettelyssä korkean riskin tilanteissa (artikla 36).
 
-Toimittaja avustaa tarvittaessa Asiakasta rekisteriselosteen laatimisessa. Avustamisesta peritään kulloinkin voimassa olevan hinnaston mukainen korvaus.
+Toimittaja avustaa tarvittaessa Asiakasta rekisteriselosteen laatimisessa.
+
+Avustamisesta peritään kulloinkin voimassa olevan hinnaston mukainen korvaus.
 
 ### 5.5 Toimittajan auditointi
 Toimittaja saattaa rekisterinpitäjän saataville kaikki tiedot, jotka ovat tarpeen sopimuksen mukaisten velvollisuuksien noudattamisen osoittamista varten, ja sallii rekisterinpitäjän tai muun rekisterinpitäjän valtuuttaman auditoijan suorittamat auditoinnit sekä osallistuu niihin.
