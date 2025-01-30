@@ -48,17 +48,15 @@ Data is handled as follows:
 
 ### When client transfers data to us
 
-When we get data from a new client, that data is saved in:
+When a new client requests us to prepare a data migration from their previous system, data is in most cases saved in:
 
  * HESK support system on `Linode Frankfurt` (cron removes the data after a timeout)
- * personal computers (crons should be used to clean Downloads)
- * production server (cron cleans backups)
- * offsite backups
+ * personal computer of the employee who converts the data (crons should be used to clean Downloads)
 
 Client data may also be present in
 
- * personal emails (in case a client sends data by email **against** guidelines; it is every employee's duty that these attachments be deleted)
- * printouts (these must be deleted promptly)
+ * personal emails (in case a client sends data by email **against** guidelines; it is every employee's duty that these attachments be deleted promptly)
+ * printouts (these must be shredded)
 
 ### Live data and offsite backups
 
