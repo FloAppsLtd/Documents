@@ -16,7 +16,7 @@ Sopimuksessa
 
 -    käsitteitä ”henkilötieto”, ”käsittely”, ”rekisteröity” käytetään samassa merkityksessä kuin ne ovat käytössä EU:n yleisessä tietosuoja-asetuksessa (EU) 216/679;
 
--    ”tiedolla” tarkoitetaan kaikkea asiakkaan palveluun tallentamaa tietoa, joka voi sisältää henkilötietoja.
+-    ”tiedolla” tarkoitetaan kaikkea Asiakkaan palveluun tallentamaa tietoa, joka voi sisältää henkilötietoja.
 
 ## 2  PALVELUN TOTEUTUS JA MUUTOKSET PALVELUUN
 Palvelu toteutetaan Toimittajan osoittamalla palvelimella. Toimittaja vastaa omien palvelintensa ylläpidosta. Toimittajalla on oikeus tuottaa Sopimuksen mukainen Palvelu parhaaksi katsomallaan tavalla ja käyttää sopimusvelvoitteidensa täyttämiseksi alihankkijoita.
@@ -30,7 +30,7 @@ Verkkosivuprojekteissa Toimittaja rekisteröi tarvittaessa Asiakkaan verkkotunnu
 ## 3  OIKEUDET PALVELUUN JA SEN SISÄLTÖÖN SEKÄ VASTUU SISÄLLÖSTÄ
 Asiakas saa Palveluun käyttöoikeuden, joka on voimassa Sopimuksen voimassaoloaikana.
 
-Kaikki oikeudet Palvelussa käytettyihin Toimittajan Ohjelmistoihin sekä niiden muutoksiin ja päivityksiin kuuluvat Toimittajalle tai kolmansille osapuolille. Asiakas ei saa tämän Sopimuksen mukaista käyttöoikeutta lukuunottamatta mitään oikeuksia Toimittajan Ohjelmistoihin tai muuhun Toimittajan tuottamaan tai tarjoamaan materiaaliin ellei erikseen kirjallisesti muuta sovita. Selvyyden vuoksi todetaan, että asiakkaalla ei ole oikeutta tehdä tai teettää muutoksia Toimittajan Ohjelmistoon, eikä ottaa siitä kopioita ellei tästä erikseen kirjallisesti sovita.
+Kaikki oikeudet Palvelussa käytettyihin Toimittajan Ohjelmistoihin sekä niiden muutoksiin ja päivityksiin kuuluvat Toimittajalle tai kolmansille osapuolille. Asiakas ei saa tämän Sopimuksen mukaista käyttöoikeutta lukuunottamatta mitään oikeuksia Toimittajan Ohjelmistoihin tai muuhun Toimittajan tuottamaan tai tarjoamaan materiaaliin ellei erikseen kirjallisesti muuta sovita.
 
 Asiakkaan Palveluun toimittaman materiaalin oikeudet pysyvät Asiakkaalla.
 
@@ -46,7 +46,7 @@ Palvelua käytettäessä Asiakas tallentaa Palveluun tietoja, jotka saattavat si
 
 Sopijapuolet sitoutuvat Palvelua käytettäessä noudattamaan EU:n yleisen tietosuoja-asetuksen (EU) 2016/679 määräyksiä.
 
-Asiakas on asetuksen tarkoittama rekisterinpitäjä, Toimittajan toimiessa tietojen käsittelijänä asiakkaan lukuun.
+Asiakas on asetuksen tarkoittama rekisterinpitäjä, Toimittajan toimiessa tietojen käsittelijänä Asiakkaan lukuun.
 
 Toimittajalla on oikeus käsitellä Palveluun tallennettuja tietoja vain Asiakkaan kirjallisten ohjeiden mukaisesti ja tämän sopimuksen mukaisiin tarkoituksiin ellei tietosuoja-asetuksesta tai lainsäädännöstä muuta johdu. Tämän sopimuksen ja Toimittajan tietosuojaselosteen sekä Asiakkaan erikseen antamien kirjallisten ohjeiden lisäksi kirjallisina ohjeina pidetään Asiakkaan Palvelussa antamia Palvelun käytön kautta tapahtuvia toimeksiantoja.
 
@@ -55,11 +55,11 @@ Jos soveltuva lainsäädäntö edellyttää, että Toimittaja käsittelee tietoj
 Toimittaja ilmoittaa tietojen käsittelyä koskevat periaatteet ja kuvauksen tietosuojaselosteessa ([Security Policy](https://github.com/FloAppsLtd/Documents/blob/master/SecurityPolicy.md)). Toimittaja ei saa ilman Asiakkaan suostumusta laajentaa tietojen käsittelyä tietosuojaselosteessa ilmoitetusta. Toimittaja on nimennyt tietosuojavastaavan, jonka yhteystiedot on ilmoitettu tietosuojaselosteessa.
 
 ### 5.1 Käsittelyn kohde ja kesto
-Käsittelyn kohteena ovat asiakkaan palveluun tallentamat tiedot.
+Käsittelyn kohteena ovat Asiakkaan palveluun tallentamat tiedot.
 
 Toimittaja käsittelee tietoja tämän sopimuksen voimassaolon ajan.
 
-Sopimuksen päättyessä toimittaja on velvollinen poistamaan Asiakkaan materiaalit Palvelusta. Ellei toisin ole sovittu, Toimittaja poistaa tiedot viimeistään kuukauden kuluessa sopimuksen päättymisestä. Toimittaja ei vastaa rekisteröidylle mahdollisesti aiheutuvista vahingoista, jotka johtuvat tietojen poistamisesta.
+Sopimuksen päättyessä Toimittaja on velvollinen poistamaan Asiakkaan materiaalit Palvelusta. Ellei toisin ole sovittu, Toimittaja poistaa tiedot viimeistään kuukauden kuluessa sopimuksen päättymisestä. Toimittaja ei vastaa rekisteröidylle mahdollisesti aiheutuvista vahingoista, jotka johtuvat tietojen poistamisesta.
 
 Sopimuksen päätyttyä tiedot poistuvat Toimittajan varmuuskopiointijärjestelmistä tietosuojaselosteessa ilmoitetussa ajassa.
 
@@ -70,7 +70,7 @@ Asiakas ja Toimittaja toteuttavat henkilötietojen käsittelyn turvallisen käsi
 Toimittaja avustaa Asiakasta, käsittelyn luonne huomioiden asianmukaisilla teknisillä ja organisatorisilla toimenpiteillä, toteuttamaan rekisteröidyn (Tietosuoja-asetuksen III luvussa määrätyt) oikeudet.
 
 ### 5.4 Asiakkaan avustaminen
-Toimittajalle saatavilla olevat tiedot ja käsittelyn luonne huomioiden, toimittaja avustaa rekisterinpitäjää:
+Toimittajalle saatavilla olevat tiedot ja käsittelyn luonne huomioiden, Toimittaja avustaa rekisterinpitäjää:
 
 (a)    yleisesti tietojen käsittelyn turvallisuuden varmistamisessa (artikla 32);
 
@@ -82,9 +82,9 @@ Toimittajalle saatavilla olevat tiedot ja käsittelyn luonne huomioiden, toimitt
 
 (e)    viranomaisen kuulemismenettelyssä korkean riskin tilanteissa (artikla 36).
 
-Toimittaja avustaa tarvittaessa asiakasta rekisteriselosteen laatimisessa.
+Toimittaja avustaa tarvittaessa Asiakasta rekisteriselosteen laatimisessa.
 
-Asiakkaan avustamisesta peritään kulloinkin voimassa olevan hinnaston mukainen korvaus.
+Avustamisesta peritään kulloinkin voimassa olevan hinnaston mukainen korvaus.
 
 ### 5.5 Toimittajan auditointi
 Toimittaja saattaa rekisterinpitäjän saataville kaikki tiedot, jotka ovat tarpeen sopimuksen mukaisten velvollisuuksien noudattamisen osoittamista varten, ja sallii rekisterinpitäjän tai muun rekisterinpitäjän valtuuttaman auditoijan suorittamat auditoinnit sekä osallistuu niihin.
@@ -142,7 +142,7 @@ Palveluntuotantoa satunnaisesti haittaavat ongelmat ratkaistaan yhden työpäiv�
 
 Toimittaja varaa oikeuden veloittaa korjaustöistä hinnaston mukaisen korvauksen, jos kyseessä ei ole palveluntuotannon estävä ongelma ja korjaus tehdään normaalin työajan ulkopuolella. Ylläpito ei kata sellaisten virheiden korjaamista, jotka eivät johdu Toimittajan vastuulla olevasta seikasta. Toimittaja ei takaa Palvelun toimivuutta tilanteessa, jossa Palvelun käyttäminen on estynyt siitä syystä, että Toimittajan alihankkija ei väliaikaisesti pysty suoriutumaan velvoitteistaan.
 
-Toimittajalla on oikeus tilapäisesti keskeyttää Palvelun tuottaminen, jos se on tarpeen huolto- tai ylläpitotarkoituksia varten. Toimittaja pyrkii pitämään keskeytykset mahdollisimman lyhytaikaisina. Keskeytyksistä tiedotetaan mahdollisuuksien mukaan.
+Toimittajalla on oikeus tilapäisesti keskeyttää Palvelun tuottaminen, jos se on tarpeen huolto- tai ylläpitotarkoituksia varten. Toimittaja pyrkii pitämään keskeytykset mahdollisimman lyhytaikaisina. Keskeytyksistä tiedotetaan mahdollisuuksien mukaan etukäteen.
 
 Toimittaja ei vastaa Asiakkaalle Palvelun mahdollisista lyhytaikaisista katkoksista aiheutuneista vahingoista.
 
@@ -214,12 +214,12 @@ Toimittajalla on oikeus kieltäytyä vapauttamasta tai siirtämästä Asiakkaan 
 Irtisanominen on toimitettava kirjallisesti.
 
 ## 17  ILMOITUKSET
-Asiakkaan tulee lähettää tähän sopimukseen liittyvät ilmoitukset kirjallisesti Toimittajan Sopimuksessa mainittuun tai myöhemmin ilmoitettuun osoitteeseen tai sähköpostiosoitteeseen.
+Asiakkaan tulee lähettää Sopimukseen liittyvät ilmoitukset kirjallisesti Toimittajan Sopimuksessa mainittuun tai myöhemmin ilmoitettuun osoitteeseen tai sähköpostiosoitteeseen.
 
-Toimittaja lähettää tätä Sopimusta koskevat kirjalliset ilmoitukset Asiakkaan viimeksi ilmoittamaan sähköpostiosoitteeseen. Toimittajan sähköpostitse lähettämien ilmoitusten katsotaan tulleen Asiakkaan tietoon niiden lähettämistä seuraavana päivänä.
+Toimittaja lähettää Sopimusta koskevat kirjalliset ilmoitukset Asiakkaan viimeksi ilmoittamaan sähköpostiosoitteeseen. Toimittajan sähköpostitse lähettämien ilmoitusten katsotaan tulleen Asiakkaan tietoon niiden lähettämistä seuraavana päivänä.
 
 ## 18  RIITOJEN RATKAISU JA SOVELLETTAVA LAKI
-Tähän sopimukseen sovelletaan Suomen lakia. Sopimuksesta aiheutuvat riidat ratkaistaan Helsingin käräjäoikeudessa ellei pakottavasta lainsäädännöstä muuta johdu.
+Sopimukseen sovelletaan Suomen lakia. Sopimuksesta aiheutuvat riidat ratkaistaan Helsingin käräjäoikeudessa ellei pakottavasta lainsäädännöstä muuta johdu.
 
 ## 19  LIITTEET JA NIIDEN TULKINTAJÄRJESTYS
 Jos Sopimuksen ja sen liitteiden välillä havaitaan ristiriitaa, sovelletaan ensisijaisesti pääsopimusasiakirjaan kirjattuja ehtoja ja sen jälkeen näitä Palvelun ehtoja.
@@ -227,6 +227,6 @@ Jos Sopimuksen ja sen liitteiden välillä havaitaan ristiriitaa, sovelletaan en
 ## 20  EHTOJEN VOIMASSAOLO JA MUUTTAMINEN
 Toimittaja voi muuttaa näitä sopimusehtoja, jolloin Asiakkaalle tiedotetaan uusista sopimusehdoista vähintään kaksi kuukautta ennen niiden voimaanastumista. Jos ehtoja on muutettu Asiakkaan vahingoksi, on Asiakkaalla oikeus irtisanoa Sopimus irtisanomisaikaa noudattamatta.
 
-Nämä ehdot tulevat voimaan 01.05.2022 ja ovat voimassa toistaiseksi.
+Nämä ehdot tulevat voimaan 01.02.2025 ja ovat voimassa toistaiseksi.
 
 Näiden sopimusehtojen tuorein versio on noudettavissa osoitteesta https://github.com/FloAppsLtd/Documents.
