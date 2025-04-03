@@ -80,7 +80,7 @@ Flo Apps Ltd uses servers hosted by following service providers.
 
 Each live FloMembers server creates nightly backups of the data. These backups are also copied to an offsite server, in order to provide redundancy.
 
-We keep daily, weekly and monthly backups on each live server. Restoring from backups is tested frequently.
+Restoring from backups is tested frequently.
 
 ### Closing an installation
 
@@ -208,6 +208,10 @@ We use [Postmark](https://postmarkapp.com/) to deliver email and have signed a D
 ### Stripe
 
 We may use Stripe to handle online payments in FloMembers. For more information, see [Stripe Privacy Center](https://stripe.com/en-fi/legal/privacy-center).
+
+### Sweego
+
+We use [Sweego](https://www.sweego.io/) to deliver transactional email.
 
 ### Tawk
 
