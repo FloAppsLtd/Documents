@@ -119,6 +119,10 @@ SSH keys are also used in communication between GitHub repositories and the inst
 
 All passwords that system stores are saved using one-way hashing mechanisms. Flo Apps staff cannot view them. If a user loses their password, it cannot be retrieved — it must be reset.
 
+### Dependabot
+
+GitHub's [Dependabot](https://docs.github.com/en/code-security/dependabot) fixes vulnerable dependencies by raising automated pull requests with security updates.
+
 ### Logs
 
 We keep a number of different logs on different levels. Some of these logs are cleaned automatically after a certain delay, some of them are kept permanently for security reasons. If a person has been removed permanently, their actions cannot be tracked down to the person after a certain delay. Anonymous data may still remain.
