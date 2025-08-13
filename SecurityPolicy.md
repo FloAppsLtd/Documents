@@ -177,18 +177,6 @@ For FloMembers Mini clients, we're using Google AdSense to show ads.
 
 FloMembers users can use their Google credentials to log in.
 
-### Mandrill
-
-We use Mandrill (part of Mailchimp) to deliver email. Full content of the messages is kept on Mandrill servers for 3 days, detailed information about sent messages for 30 days and bounced data for 90 days.
-
-Mandrill's infrastructure is composed of three key components:
-
-1) Relay servers (various Amazon-hosted regions), which accept mail from users through the API or SMTP integration
-2) Application servers (in the US), which process and handle everything required for sending and storing data, and
-3) Sending servers (in the US), which handle the actual delivery of emails to recipient servers
-
-For more information, see [Mailchimp Security page](https://mailchimp.com/about/security/). We have signed a Customer EU Data Processing Addendum with them.
-
 ### Maventa
 
 Invoice-related data is transferred to [Maventa](https://maventa.com/) when e-invoices are sent. Client can delete this data via Maventa panel.
