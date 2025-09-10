@@ -44,8 +44,10 @@ A thorough **Risk Assessment** identifies potential threats that could disrupt o
 
  *   Loss of key employees: critical system knowledge may reside with only one or two developers, creating bottlenecks during absences or departures. To mitigate,
      * Create and maintain technical documentation
+     * Build documented processes
      * Organize regular knowledge-sharing sessions
      * Rotate code ownership among developers
+     * Enlargen the team
 
  *   GDPR Data Breach: compliance with GDPR, including the 72-hour breach notification to the Finnish Data Protection Ombudsman, is essential. Therefore,
      * Implement a Data Breach Response Plan
