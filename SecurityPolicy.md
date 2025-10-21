@@ -64,21 +64,19 @@ Flo Apps Ltd uses servers hosted by following service providers.
 
  * DigitalOcean (Amsterdam, NL; Frankfurt, DE)
    * see https://www.digitalocean.com/security/
-   * offsite FloMembers backups are kept on Dropbox (see https://www.dropbox.com/help/security/general-data-protection-regulation) and mirrored back to Flo Apps DPO's computer
-   * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on Dropbox
+   * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on [Dropbox](https://www.dropbox.com/)
 
  * Linode (Frankfurt, DE; London, UK)
    * see https://www.linode.com/compliance
-   * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on Dropbox
+   * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on [Dropbox](https://www.dropbox.com/)
 
- * UpCloud (Espoo, FI; Helsinki, FI)
+ * UpCloud (Espoo, FI; Helsinki, FI; Stockholm, SE)
    * see https://upcloud.com/data-centres
    * ISO 27001 certification for security standards
-   * offsite FloMembers backups are kept on UpCloud Helsinki
 
 ### FloMembers backups
 
-Each live FloMembers server creates nightly backups of the data. These backups are also copied to an offsite server, in order to provide redundancy.
+Each live FloMembers server creates nightly backups of the data. These backups are copied to an offsite server on UpCloud Helsinki, in order to provide redundancy.
 
 Restoring from backups is tested frequently.
 
@@ -157,6 +155,10 @@ We use 2FA authentication for logins into third-party services whenever possible
 
 Bank transaction files are kept on our servers for 180 days and deleted via CRON operation.
 
+### Dropbox
+
+See [Dropbox's GDPR Policy](https://www.dropbox.com/help/security/general-data-protection-regulation).
+
 ### GatewayAPI
 
 We deliver SMS's via [GatewayAPI](https://gatewayapi.com/). They store the SMS messages for 30 days to display logs of sent messages.
@@ -180,6 +182,10 @@ FloMembers users can use their Google credentials to log in.
 ### Maventa
 
 Invoice-related data is transferred to [Maventa](https://maventa.com/) when e-invoices are sent. Client can delete this data via Maventa panel.
+
+### ManageWP
+
+See [ManageWP's Privacy Policy](https://managewp.com/privacy-policy/).
 
 ### Paytrail
 
@@ -218,6 +224,8 @@ During SMS delivery, Twilio may transfer data to the US; however, they are commi
 ### Uploadcare
 
 In some of our services, clients can upload and share files via [Uploadcare](https://uploadcare.com/). For more information, see their [Trust Center](https://uploadcare.com/about/trust/).
+
+https://www.dropbox.com/help/security/general-data-protection-regulation
 
 ## Procedure for Security Breaches
 
