@@ -33,7 +33,6 @@ Our systems save such security-related data as logins and IP addresses. This dat
 Data owned by clients is stored exclusively within the European Economic Area (EEA) with these exceptions:
 
 * during email transmissions, recipients' email addresses and email content may be handled outside the EEA
-* 2FA SMS messages may be handled outside the EEA
 
 By using [FloMembers membership management](https://flomembers.fi), FloRoyalties royalty management and / or bespoke database systems to keep personal data, client agrees that Flo Apps Ltd may manage client's data over the course of the agreement and beyond, until the end of the backups' life cycle.
 
@@ -214,12 +213,6 @@ We use [Sweego](https://www.sweego.io/) to deliver transactional email.
 ### Tawk
 
 We use Tawk to provide support chat. Tawk keeps email addresses for those persons who are logged into FloMembers when using the chat. For more information, see https://www.tawk.to/data-protection/dpa-data-processing-addendum/
-
-### Twilio
-
-Ad hoc SMS's and 2FA SMS's are sent via [Twilio](https://twilio.com/). Flo Apps Ltd and Twilio Inc. have signed an agreement on EC Data Protection.
-
-During SMS delivery, Twilio may transfer data to the US; however, they are committed to complying with EU data protection requirements.
 
 ### Uploadcare
 
