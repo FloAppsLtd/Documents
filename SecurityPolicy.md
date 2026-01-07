@@ -148,7 +148,9 @@ All logins are written into a log. Login pages have brute force protection. Syst
 
 ## Third-party integrations
 
-We use 2FA authentication for logins into third-party services whenever possible.
+We use 2FA authentication for logins into third-party services where possible.
+
+We assess the information risks associated with external suppliers once a year.
 
 ### Bank transactions
 
