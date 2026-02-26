@@ -2,6 +2,10 @@
   "nav": {
     "links": [
       {
+        "href": "/GeneralTermsEnglish",
+        "name": "General Terms (ENG)"
+      },
+      {
         "href": "/SecurityPolicy",
         "name": "Security Policy"
       }
