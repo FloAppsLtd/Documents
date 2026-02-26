@@ -220,8 +220,6 @@ We use Tawk to provide support chat. Tawk keeps email addresses for those person
 
 In some of our services, clients can upload and share files via [Uploadcare](https://uploadcare.com/). For more information, see their [Trust Center](https://uploadcare.com/about/trust/).
 
-https://www.dropbox.com/help/security/general-data-protection-regulation
-
 ## Procedure for Security Breaches
 
  1. Determine
