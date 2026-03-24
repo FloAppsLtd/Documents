@@ -65,7 +65,7 @@ Flo Apps Ltd uses servers hosted by following service providers.
    * see https://www.digitalocean.com/security/
    * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on [Dropbox](https://www.dropbox.com/)
 
- * Linode (Frankfurt, DE; London, UK)
+ * Linode (Frankfurt, DE)
    * see https://www.linode.com/compliance
    * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on [Dropbox](https://www.dropbox.com/)
 
