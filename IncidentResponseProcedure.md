@@ -125,7 +125,7 @@ After the incident, implement measures to prevent recurrence:
 
 # 14. Documentation & Continuous Improvement
 
-* Incident Report: A detailed report should be generated documenting all actions, lessons learned, and recommendations for improving future responses.
+* [Incident Report](https://github.com/AnttiKurittu/incident-report-template): A detailed report should be generated documenting all actions, lessons learned, and recommendations for improving future responses.
 * Review and Update: Regularly review the incident response procedure to ensure it stays current with evolving threats and compliance requirements.
 
 # 15. Conclusion
