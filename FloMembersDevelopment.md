@@ -2,7 +2,7 @@
 
 Tarvittaessa Asiakas voi toteuttaa omalla kustannuksellaan normaalin kehitysjonon ohi haluamiaan ominaisuuksia. Näille jatkokehitystoiveille annetaan ennen niiden toteutusta hinta-arvio. Nämä ominaisuudet otetaan joko osaksi sovellusta tai niistä tehdään asiakkaalle räätälöity laajennus tai moduuli.
 
-Lisätöistä sovitaan kirjallisesti [HESK-tukijärjestelmän](https://support.floapps.com/) kautta. Töille annetaan hinta-arvio ennen niiden aloittamista. Toimittaja laskuttaa töistä hinnastonsa mukaisesti (110 € + alv / tunti).
+Lisätöistä sovitaan kirjallisesti [HESK-tukijärjestelmän](https://support.floapps.com/) kautta. Toimittaja laskuttaa töistä hinnastonsa mukaisesti. Töille annetaan hinta-arvio ennen niiden aloittamista.
 
 Jos useampi asiakas on jättänyt samaa ominaisuutta koskevan jatkokehityspyynnön, kustannuksia voidaan jakaa näiden asiakkaiden kesken.
 
