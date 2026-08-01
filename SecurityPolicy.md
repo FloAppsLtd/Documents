@@ -63,15 +63,12 @@ Flo Apps Ltd uses servers hosted by following service providers.
 
  * DigitalOcean (Amsterdam, NL; Frankfurt, DE)
    * see https://www.digitalocean.com/security/
-   * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on [Dropbox](https://www.dropbox.com/)
-
- * Linode (Frankfurt, DE)
-   * see https://www.linode.com/compliance
-   * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on [Dropbox](https://www.dropbox.com/)
+   * offsite backups are kept on [Dropbox](https://www.dropbox.com/) and [ManageWP](https://managewp.com/)
 
  * UpCloud (Espoo, FI; Helsinki, FI; Stockholm, SE)
    * see https://upcloud.com/data-centres
    * ISO 27001 certification for security standards
+   * offsite backups are kept on [Jottacloud](https://jottacloud.com/) and [ManageWP](https://managewp.com/)
 
 ### FloMembers backups
 
